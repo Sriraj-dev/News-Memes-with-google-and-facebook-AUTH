@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "278499449880",
+    "project_id": "auth-56b4e",
+    "storage_bucket": "auth-56b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278499449880:android:cb6c06b5afd0378714b76d",
+        "android_client_info": {
+          "package_name": "com.example.news_memes_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278499449880-pmvdcm7cqqgrqt5fbk23ct2mfhk79mko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyaalu8FN28nnCnFlajnYR-fgCo-iJsCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278499449880-pmvdcm7cqqgrqt5fbk23ct2mfhk79mko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

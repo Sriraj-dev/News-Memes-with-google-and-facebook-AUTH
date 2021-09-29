@@ -1,0 +1,7 @@
+<resources>
+
+<string name="app_name">news_memes_app</string>
+<string name="facebook_app_id">164110115881554</string>
+<string name="fb_login_protocol_scheme">fb164110115881554</string>
+
+</resources>
